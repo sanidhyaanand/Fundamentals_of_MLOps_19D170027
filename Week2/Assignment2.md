@@ -1,6 +1,6 @@
 # Week 2 Assignment
 ### Github repo link
-https://github.com/sanidhyaanand/MLOps_Assignment
+[here](https://github.com/sanidhyaanand/MLOps_Assignment)
 ### Command List
 1. git clone https://github.com/sanidhyaanand/MLOps_Assignment.git <br>
 2. dvc init

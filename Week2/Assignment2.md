@@ -2,6 +2,7 @@
 ### Github repo link
 [here](https://github.com/sanidhyaanand/MLOps_Assignment)
 ### Command List
+```shell
 1. git clone https://github.com/sanidhyaanand/MLOps_Assignment.git <br>
 2. dvc init
 3. mkdir data
@@ -14,3 +15,4 @@
 10. git add .dvc/config
 11. git commit -m "configuring remote"
 12. dvc push
+```

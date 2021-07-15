@@ -3,7 +3,7 @@
 [here](https://github.com/sanidhyaanand/MLOps_Assignment)
 ### Command List
 ```shell
-git clone https://github.com/sanidhyaanand/MLOps_Assignment.git <br>
+git clone https://github.com/sanidhyaanand/MLOps_Assignment.git
 dvc init
 mkdir data
 mkdir ../external_cache

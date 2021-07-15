@@ -16,3 +16,11 @@ git add .dvc/config
 git commit -m "configuring remote"
 dvc push
 ```
+### Accuracy and Weighted F1 scores
+#### Experiment 1 - Decision Trees
+Accuracy: 0.9992977774656788
+Weighted F1 Score: 0.9993081879885035
+
+#### Experiment 2 - Random Forests
+Accuracy: 0.9996137776061234 <br>
+Weighted F1 Score: 0.999596639330722 <br>
